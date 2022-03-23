@@ -17,7 +17,7 @@
 - #### [Artifacts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2431/) - Adds 15 new lore friendly artifacts fully integrated into the world of Skyrim! 
     > We are not using [Artifacts of Skyrim - Revised Edition](https://www.nexusmods.com/skyrimspecialedition/mods/49779/) due to instability, first hand experiences of FPS issues, and multiple CTDs. 
 - #### [Oblivion Artifact Pack](https://www.nexusmods.com/skyrimspecialedition/mods/10644/) - This mod brings back many of the classic unique weapons, armor and clothing from The Elder Scrolls IV: Oblivion.
-- - #### [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138/) - Adds lore-friendly, balanced improvements to the under-powered artifacts of Skyrim.
+- #### [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138/) - Adds lore-friendly, balanced improvements to the under-powered artifacts of Skyrim.
 ## Weapons 
 - #### [Royal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6994/) - Adds special weapons to the most important characters in Skyrim. Ulfric Stormcloak and General Tullius now carry weapons to fit their station!
 ## Armors
