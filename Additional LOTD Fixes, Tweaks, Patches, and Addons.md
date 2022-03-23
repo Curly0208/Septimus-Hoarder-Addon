@@ -1,4 +1,4 @@
-# Legacy of the Dragonborn Fixes, Retextures, Tweaks, Patches, and Addons
+# Fixes, Retextures, Tweaks, Patches, and Addons
 ### This is an organized documentation of additional non-display modifications included in the Hoarder Addon.
 --- 
 ## Legacy of the Dragonborn Museum Modifications
@@ -16,8 +16,20 @@
 - #### [Legacy of the Dragonborn - Mementos](https://www.nexusmods.com/skyrimspecialedition/mods/45829) - This mod replaces the skulls you find on Dark Brotherhood Targets with mementos of the target. 
 - #### [Legacy of the Dragonborm - Armory Addon](https://www.nexusmods.com/skyrimspecialedition/mods/47825/) - A simple overhaul to the two personal armouries within the museum from Legacy of the Dragonborn. This mod is meant to breath a little life into large empty stone hallways and bring them in line with the rest of the museum visuals.
 - #### [Legacy of The Dragonborn - SMIM Chests](https://www.nexusmods.com/skyrimspecialedition/mods/55720/) - Replaces Legacy of The Dragonborn chests with SMIM models.
-## Quality of Life Modifications
+## Legacy of the Dragonborn Additional Modifications
+- #### [Quest and Reward Delay for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/44923) - Delays the various rewards and quests in Legacy of the Dragonborn to higher display count numbers.
+   > NOTE (IMPORTANT): This mod is already a part of Septimus 3, yet comes in two versions: "LOTD Delay Patch" & "LOTD Extra Delay Patch". We are going to be using the "Extra Delay" version of this mod due to the drastic increase of possible displays for the museum. You do not need to download this mod in the installation guide if you do not want to. The "Extra Delay" version doubles the number of required displays. For the final LOTD quest in this version, you need **2700** displays in the museum. This mod is for players who want a 200+ hour playthrough, not those who want to blow through Legacy of the Dragonborn's content and not for first time LOTD players.
 - #### [Legacy of the Dragonborn - Quick Museum Shortcuts](https://www.nexusmods.com/skyrimspecialedition/mods/38898/) - Shortens two secret passages in Legacy of the Dragonborn and adds the Hall of Secrets to the Curator's Guide.
 - #### [Legacy of the Dragonborn - Stash Supplies Cast Time Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/31120/) - Changes the 'Stash Supplies' casting animation from 3 seconds to 0.1 seconds.
 - #### [Legacy of the Dragonborn - Museum Shipment Crates for New Quest & Lands](https://www.nexusmods.com/skyrimspecialedition/mods/34795) - Adds new Museum shipment crates to mods like Falskaar, The Forgotten City, Wrymstooth, and more.
 - #### [More Dragonborn Museum Shipment Crates](https://www.nexusmods.com/skyrimspecialedition/mods/33991) - Adds 7 new Shipment Crates to various smaller settlements in Skyrim.
+- #### [Complete Replica Fixes for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/46575/) - This mod adds replicas and/or the recipes to craft them for every item that is able to be displayed in Deepholme, so you can store all your originals safely away, and have a second space that is chronically underfilled.
+- #### [Fate Card Packs](https://www.nexusmods.com/skyrimspecialedition/mods/47884/) - An addon for LOTD. This mod adds packs of random Fate Cards to vendors. Yes, gambling is now in Skyrim as well!
+- #### [Legacy of the Dragonborn Collectors and Vendors](https://www.nexusmods.com/skyrimspecialedition/mods/24247/) - Adds a few specialty vendors across Skyrim to make it a bit easier to acquire randomly spawning items from Legacy of the Dragonborn.
+- #### [Keep the Skeleton Key - Deceive Nocturnal (For Legacy of the Dragonborn)](https://www.nexusmods.com/skyrimspecialedition/mods/47083/) - A neat mod that allows you to use a LOTD replica of the Skeleton Key and give it to Nocturnal to decieve her and keep the actual key for yourself.
+## General Quality of Life Additions
+- #### [Completionist - Skyrim Completion Tracker](https://www.nexusmods.com/skyrimspecialedition/mods/46358) - Complete MCM quest & item tracking of Skyrim, official DLC, Creation Club (Including Anniversary Edition) and a whole boat load of popular quest mods available here on the Nexus!
+- #### [Marked Treasure](https://www.nexusmods.com/skyrimspecialedition/mods/46011/) - Adds quest markers to the treasure map targets for the vanilla maps, maps added by Legacy of the Dragonborn, [New Treasure Hunt](https://www.nexusmods.com/skyrimspecialedition/mods/19469), and [Treasure Hunter](https://www.nexusmods.com/skyrimspecialedition/mods/5789).
+- #### [Hide Your Quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125) - Allows you to hide any quest in your journal via the MCM menu.
+- #### [Hide Quest Items in Container Menu](https://www.nexusmods.com/skyrimspecialedition/mods/51243) - Hides quest items from the player's inventory when in container menu since you can't put quest items in a container anyways.
+- #### [Jiub's Opus](https://www.nexusmods.com/skyrimspecialedition/mods/17056) - Simple mod that adds quest markers for the Side quest Impatience of a Saint in the Soul Cairn.
