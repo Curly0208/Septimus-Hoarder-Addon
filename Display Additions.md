@@ -1,11 +1,11 @@
 # Display Additions
-# This list of additions is split into 6 parts for organizational purposes and 
-- ### [Artifact Packs](##Artifact-Packs)
-- ### [Weapons](##Weapons)
-- ### [Armors](##Armors)
-- ### [Collectables & Treasure Hunts](##Collectables-and-Treasure-Hunts)
-- ### [Jewerly & Clothing](##Jewerly-and-Clothing)
-- ### [Miscellaneous](##Miscellaneous)
+## This list of additions is split into 6 parts for organizational purposes and 
+- #### [Artifact Packs](##Artifact-Packs)
+- #### [Weapons](##Weapons)
+- #### [Armors](##Armors)
+- #### [Collectables & Treasure Hunts](##Collectables-and-Treasure-Hunts)
+- #### [Jewerly & Clothing](##Jewerly-and-Clothing)
+- #### [Miscellaneous](##Miscellaneous)
 ---
 ## Quests
 - #### [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264/) - This mod adds the oblivionesque [Tournament of Ten Bloods](https://en.uesp.net/wiki/Oblivion:Boethia) into Skyrim in a lore friendly way. During and after your quest to win the Tourament, you will be granted several artifacts such as Goldbrand/Eltonbrand, Boethiah's Walking Staff, Fearstruck, Lyrisius Dagger and Shashev's Ring. 
