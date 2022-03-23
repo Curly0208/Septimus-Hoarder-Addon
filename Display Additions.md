@@ -1,4 +1,10 @@
 # Display Additions
+# This list of additions is split into 6 parts for organizational purposes and 
+[Artifact Packs](#Artifact Packs)
+[Weapons](#Weapons)
+[Armors](#Armors)
+[Collectables & Treasure Hunts](#Collectables & Treasure Hunts)
+[Jewerly & Clothing](#Jewerly & Clothing)
 [Miscellaneous](#Miscellaneous)
 ---
 ## Quests
