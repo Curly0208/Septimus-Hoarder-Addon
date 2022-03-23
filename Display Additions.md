@@ -1,11 +1,11 @@
 # Display Additions
 # This list of additions is split into 6 parts for organizational purposes and 
-[Artifact Packs](#Artifact Packs)
-[Weapons](#Weapons)
-[Armors](#Armors)
-[Collectables & Treasure Hunts](#Collectables & Treasure Hunts)
-[Jewerly & Clothing](#Jewerly & Clothing)
-[Miscellaneous](#Miscellaneous)
+- ### [Artifact Packs](##Artifact-Packs)
+- ### [Weapons](##Weapons)
+- ### [Armors](##Armors)
+- ### [Collectables & Treasure Hunts](##Collectables-and-Treasure-Hunts)
+- ### [Jewerly & Clothing](##Jewerly-and-Clothing)
+- ### [Miscellaneous](##Miscellaneous)
 ---
 ## Quests
 - #### [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264/) - This mod adds the oblivionesque [Tournament of Ten Bloods](https://en.uesp.net/wiki/Oblivion:Boethia) into Skyrim in a lore friendly way. During and after your quest to win the Tourament, you will be granted several artifacts such as Goldbrand/Eltonbrand, Boethiah's Walking Staff, Fearstruck, Lyrisius Dagger and Shashev's Ring. 
@@ -23,10 +23,10 @@
 ## Armors
 - #### [Aetherium Armor & Weapons Compilation](https://www.nexusmods.com/skyrimspecialedition/mods/2687/) - This Mod adds the Aetherial Power Armor and Powered Weapons to Skyrim. 
 - #### [Guards Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/22671/) - Every hold now has it's own armor and equipment, that depends on the hold's prosperity, geographic location, weather, cultural influence of neighbouring countries and other important factors. Equipment for every hold is divided into heavy and light, that have different appearance. 
-## Jewerly & Clothing
+## Jewerly and Clothing
 - #### [Amulets of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/487/) -This mod adds over 230 new amulets (and a few rings) to Skyrim and gives these amulets to some named NPCs. 
 - #### [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369/) - Adds nearly 100 new styles of cloaks to the world of Skyrim 
-## Collectables & Treasure Hunts
+## Collectables and Treasure Hunts
 - #### [BadGremlins Collection](https://www.nexusmods.com/skyrimspecialedition/mods/15092) - A collection of bobbleheads, snowglobes, trophy heads, jars, and fairies  for you to find throughout the world. 
 - #### [New Treasure Hunt SSE](https://www.nexusmods.com/skyrimspecialedition/mods/19469/) - Adds 13 new hand-drawn treasure maps and treasures hidden across Skyrim to discover.
 - #### [Treasuer Hunter for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/5789/) - A small mod aiming to expand on the number of treasure maps found within the game. New treasure chests are added to recognizable spots all across Skyrim, accompanied by a location where the new maps can be found - either vanilla or brand new dungeons.
