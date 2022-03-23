@@ -20,8 +20,6 @@
 - #### [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138/) - Adds lore-friendly, balanced improvements to the under-powered artifacts of Skyrim.
 ## Weapons 
 - #### [Royal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6994/) - Adds special weapons to the most important characters in Skyrim. Ulfric Stormcloak and General Tullius now carry weapons to fit their station!
-<<<<<<< Updated upstream
-=======
 - #### [Zim's Thane Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/9138/) - Adds unique enchantments and effects for the vanilla (and generic) Thane weapons.
 - #### [Dwueth'Var - The Star Razor](https://www.nexusmods.com/skyrimspecialedition/mods/62714) - his is a unique weapon mod based on Star-Razor from Critical Roll with custom FX and a unique spell-based enchantment.
 - #### [Magicians Judge - Critical Role Mod](https://www.nexusmods.com/skyrimspecialedition/mods/64088) - A mod that adds The Magicians Judge from the DnD based series Critical Role! It has a unique enchantment dispels magical effects on a target and damages their Magicka!
@@ -29,7 +27,6 @@
 - #### [Ayleid Crystal Saber](https://www.nexusmods.com/skyrimspecialedition/mods/37405) - Adds an Ayleid Crystal Sword obtained via an unique heist!
 - #### [Occiglacies - Ancient Falmer Blade](https://www.nexusmods.com/skyrimspecialedition/mods/35637) - Adds an ancient falmer blade to the Forgotten Vale
 - #### [Ilieh - Cry of the Damned](https://www.nexusmods.com/skyrimspecialedition/mods/57066) - A cruel weapon with a trail and many custom effects.
->>>>>>> Stashed changes
 ## Armors
 - #### [Aetherium Armor & Weapons Compilation](https://www.nexusmods.com/skyrimspecialedition/mods/2687/) - This Mod adds the Aetherial Power Armor and Powered Weapons to Skyrim. 
 - #### [Guards Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/22671/) - Every hold now has it's own armor and equipment, that depends on the hold's prosperity, geographic location, weather, cultural influence of neighbouring countries and other important factors. Equipment for every hold is divided into heavy and light, that have different appearance. 
