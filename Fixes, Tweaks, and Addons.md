@@ -1,4 +1,4 @@
-# Fixes, Retextures, Tweaks, Patches, and Addons
+# Fixes, Retextures, Tweaks, and Additions Mods
 ### This is an organized documentation of additional non-display modifications included in the Hoarder Addon.
 --- 
 ## Legacy of the Dragonborn Museum Modifications
