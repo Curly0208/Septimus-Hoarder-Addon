@@ -1,4 +1,5 @@
 # Display Additions
+[Miscellaneous](#Miscellaneous)
 ---
 ## Quests
 - #### [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264/) - This mod adds the oblivionesque [Tournament of Ten Bloods](https://en.uesp.net/wiki/Oblivion:Boethia) into Skyrim in a lore friendly way. During and after your quest to win the Tourament, you will be granted several artifacts such as Goldbrand/Eltonbrand, Boethiah's Walking Staff, Fearstruck, Lyrisius Dagger and Shashev's Ring. 
@@ -30,4 +31,3 @@
 - #### [ESO Skyshards](https://www.afkmods.com/index.php?/files/file/1939-eso-skyshards/) - ESO Skyshards places several shards throughout the province of Skyrim, including Dawnguard areas and Solstheim (with optional patches for additional quest land mods like Wyrmstooth, Falskaar and Beyond Skyrim: Bruma)!
 - #### [Fossil Mining](https://www.nexusmods.com/skyrimspecialedition/mods/14107/) - Adds fossils that you can find while mining to make mining more profitable and interesting. These fossils can be displayed at the Legacy of the Dragonborn Museum!
 - #### [LOTD Follower Patches for Auri, Shirley, Inigo, and Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/40816/) - This collection of mods adds new custom follower room designs, new unique item models and textures, and more museum displays to help your important followers feel at home in the Legacy of the Dragonborn Safehouse Follower Room! 
-- 
